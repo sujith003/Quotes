@@ -33,10 +33,12 @@ Follow these steps to run the Advice App on your local machine:
    ```bash
    git clone https://github.com/sujith003/Quotes.git
 
-2. Navigate to the project directory:   
+2. Navigate to the project directory:
+   ```bash  
    cd line
 
 3. Install dependencies:   
+   ```bash 
    npm install
    npm start
 
