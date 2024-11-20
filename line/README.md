@@ -1,4 +1,4 @@
-# Advice App
+# Quotes  App
 
 Building a React Advice App with API Integration 
 
@@ -14,9 +14,8 @@ Building a React Advice App with API Integration
 
 ## Technologies Used
 
-- **React**: For building the user interface.
+- **React**: For building the user interface,handling logic and API integration.
 - **CSS**: For custom styling and design.
-- **JavaScript**: For handling logic and API integration.
 - **Local Storage**: To save and retrieve favorites.
 
 ## Getting Started
